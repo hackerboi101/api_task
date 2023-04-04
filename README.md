@@ -1,16 +1,7 @@
 # api_task
 
-A new Flutter project.
+This is a simple flutter app which fetches products data from the api and shows it onto the UI
 
-## Getting Started
+## Screenshots of UI
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://user-images.githubusercontent.com/38860340/229863247-64711242-5e0d-4da6-9942-dbda194b10d5.png" width=25% height=25%> &nbsp; &nbsp; &nbsp; <img src="https://user-images.githubusercontent.com/38860340/229863272-87114318-9a78-48f5-bd20-9fca4106c19d.png" width=25% height=25%>
