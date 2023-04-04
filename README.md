@@ -1,6 +1,6 @@
 # api_task
 
-This is a simple flutter app which fetches products data from the api and shows it onto the UI.
+This is a simple flutter app which fetches products data from the api and shows it onto the UI
 
 ## Screenshots of UI
 
